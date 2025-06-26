@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://drive.google.com/file/d/1o3rTD8lQurBD5tHjgNoCkPYaeFD5pnWo/view?usp=drive_link" width="120" alt="Logo UES" />
+</p>
+
 ## Nombre de Proyecto
 Construcción de data warehouse para análisis de inventarios para las sociedades de grupo probe
 
