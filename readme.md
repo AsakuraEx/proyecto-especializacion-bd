@@ -15,6 +15,11 @@ Construcción de data warehouse para análisis de inventarios para las sociedade
 
 ```bash
 create database ProbeDataWarehouse;
+```
+
+## Script para utilizar la base de datos
+
+```bash
 use ProbeDataWarehouse;
 ```
 
