@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Escudo_de_la_Universidad_de_El_Salvador.svg/830px-Escudo_de_la_Universidad_de_El_Salvador.svg.png" width="120" alt="Logo UES" />
+  <img src="https://genero.ues.edu.sv/wp-content/uploads/sites/48/2024/02/Logo-UES-2.png" width="120" alt="Logo UES" />
 </p>
 
 ## Nombre de Proyecto
